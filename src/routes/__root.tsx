@@ -47,6 +47,10 @@ export const Route = createRootRoute({
       {
         title: 'Daniel Davidík - Personal Website',
       },
+      {
+        name: 'description',
+        content: 'The personal website of Daniel Davidík, a software developer and tech enthusiast.',
+      },
     ],
     links: [
       {
